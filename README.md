@@ -1,2 +1,2 @@
 # coin-one-game
-coin-one java game
+-Coinman is similar game like flappy bird made using LibGDX, and Java
